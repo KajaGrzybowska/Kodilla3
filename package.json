@@ -1,0 +1,24 @@
+{
+  "name": "kodilla-grunt",
+  "version": "1.0.0",
+  "description": "website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KajaGrzybowska/Kodilla3.git"
+  },
+  "author": "KajaGrzybowska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KajaGrzybowska/Kodilla3/issues"
+  },
+  "homepage": "https://github.com/KajaGrzybowska/Kodilla3#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "sass": "^0.5.0"
+  }
+}
