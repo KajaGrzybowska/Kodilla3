@@ -298,11 +298,14 @@ header nav img {
 	padding: 5px;
 }
 
+.icons .col-4 {
+	transition: linear .2s;
+}
+
 .icons .col-4:hover {
 	cursor: pointer;
 	color: white;
 	background-color: rgba(0, 0, 0, 0.6);
-	transition: background linear .3s;	
 }
 
 .icons i {
